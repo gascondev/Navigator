@@ -30,6 +30,6 @@ La aplicación presenta una interfaz de navegador web simple que permite a los u
 
 <h3>Instalación</h3>
 
-Clona o descarga el repositorio de GitHub.  
-Abre el proyecto en Xcode.  
-Compila y ejecuta la aplicación en un simulador o dispositivo iOS.
+1. Clona o descarga el repositorio de GitHub.  
+2. Abre el proyecto en Xcode.  
+3. Compila y ejecuta la aplicación en un simulador o dispositivo iOS.
