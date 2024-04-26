@@ -8,11 +8,17 @@ La aplicación presenta una interfaz de navegador web simple que permite a los u
 
 <h3>Conceptos más relevantes aprendidos en este proyecto:</h3>
 
-**WKWebView**: Componente que permite mostrar contenido web en una aplicación iOS.
-**UIProgressView**: Elemento de interfaz de usuario que muestra el progreso de una tarea.
-**UIBarButtonItem**: Elemento de barra de herramientas que representa un botón o un elemento de control.
-**UIAlertController**: Controlador de vista que muestra una alerta o una hoja de acción en la pantalla.
-**URLSession**: Framework utilizado para acceder a los datos de recursos ubicados en la web.
+**- WKWebView**: Componente que permite mostrar contenido web en una aplicación iOS.  
+  
+**- UIProgressView**: Elemento de interfaz de usuario que muestra el progreso de una tarea.  
+  
+**- UIBarButtonItem**: Elemento de barra de herramientas que representa un botón o un elemento de control.  
+  
+**- UIAlertController**: Controlador de vista que muestra una alerta o una hoja de acción en la pantalla.  
+  
+**- URLSession**: Framework utilizado para acceder a los datos de recursos ubicados en la web.  
+
+
 
 
 <h3>Vista del proyecto:</h3>
